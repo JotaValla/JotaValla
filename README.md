@@ -7,7 +7,6 @@ _
 
 > *📫 Find me on the following networks*
 
-[![wspp-image]][loader1] [![fb-image]][loader2] [![ig-image]][loader3] [![tw-image]][loader4] [![telegram-image]][loader5] [![ds-image]][loader6] [![mail-image]][loader7] 
 
 
 
